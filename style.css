@@ -1,1 +1,10 @@
+* {
+    color: blue;
+    background-color: 41f4e2;
+    text-align: center;
+    background-image: url("https://clutchpoints.com/wp-content/uploads/2019/05/LeBron_James_reacts_to_Kawhi_Leonard_s_game-winner_over_the_Sixers-1000x600.jpg")
+}
 
+img {
+    width: 40%;
+}
